@@ -28,10 +28,10 @@
     <string name="folder_filters_subtitle">Definovat regex pro filtrování složek úložiště</string>
     <string name="edit">Úpravy</string>
     <string name="default_note_extension">Výchozí přípona poznámek</string>
-    <string name="show_lines_number">Show lines number</string>
-    <string name="repository">Repository</string>
-    <string name="password">Password</string>
-    <string name="username">Username</string>
+    <string name="show_lines_number">Zobrazit číslo řádku</string>
+    <string name="repository">Repozitář</string>
+    <string name="password">Heslo</string>
+    <string name="username">Uživatelské jméno</string>
     <string name="remote_url">Remote url</string>
     <string name="close_repository">Close repository</string>
     <string name="close_repository_confirmation">Do you really want to close the repository?</string>
