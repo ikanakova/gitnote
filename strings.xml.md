@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name" translatable="false">GitNote</string>
-    <string name="system_theme">System</string>
-    <string name="light_theme">Light</string>
-    <string name="dark_theme">Dark</string>
+    <string name="system_theme">Systémový</string>
+    <string name="light_theme">Světlý</string>
+    <string name="dark_theme">Tmavý</string>
     <string name="modification_sort_type">Modification</string>
     <string name="alpha_numeric_sort_type">Alpha numeric</string>
     <string name="ascending_sort_order">Ascending</string>
