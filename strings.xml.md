@@ -48,9 +48,9 @@
     <string name="select_multiple_notes">Vybrat více poznámek</string>
     <string name="error_invalid_link">Neplatný odkaz, nelze otevřít</string>
     <string name="error_file_already_exist">File already exist</string>
-    <string name="error_create_file">Can\'t create file: %1$s</string>
-    <string name="error_delete_file">Can\'t delete file %1$s: %2$s</string>
-    <string name="error_create_folder">Can\'t create folder: %1$s</string>
+    <string name="error_create_file">Nelze vytvořit soubor: %1$s</string>
+    <string name="error_delete_file">Nelze smazat soubor %1$s: %2$s</string>
+    <string name="error_create_folder">Nelze vytvořit složku: %1$s</string>
     <string name="error_pull_repo">Can\'t pull: %1$s</string>
     <string name="error_push_repo">Can\'t push: %1$s</string>
     <string name="error_commit_repo">can\'t commit: %1$s</string>
