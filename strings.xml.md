@@ -33,8 +33,8 @@
     <string name="password">Heslo</string>
     <string name="username">Uživatelské jméno</string>
     <string name="remote_url">Remote url</string>
-    <string name="close_repository">Close repository</string>
-    <string name="close_repository_confirmation">Do you really want to close the repository?</string>
+    <string name="close_repository">Zavřít repozitář</string>
+    <string name="close_repository_confirmation">Opravdu chcete zavřít repozitář?</string>
     <string name="version">Version</string>
     <string name="show_logs">Show logs</string>
     <string name="report_an_issue">Report an issue</string>
