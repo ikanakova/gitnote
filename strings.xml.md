@@ -3,7 +3,7 @@
     <string name="system_theme">Systémový</string>
     <string name="light_theme">Světlý</string>
     <string name="dark_theme">Tmavý</string>
-    <string name="modification_sort_type">Modification</string>
+    <string name="modification_sort_type">Modifikace</string>
     <string name="alpha_numeric_sort_type">Alpha numeric</string>
     <string name="ascending_sort_order">Ascending</string>
     <string name="descending_sort_order">Descending</string>
