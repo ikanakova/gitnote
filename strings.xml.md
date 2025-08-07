@@ -4,11 +4,11 @@
     <string name="light_theme">Světlý</string>
     <string name="dark_theme">Tmavý</string>
     <string name="modification_sort_type">Modifikace</string>
-    <string name="alpha_numeric_sort_type">Alpha numeric</string>
-    <string name="ascending_sort_order">Ascending</string>
-    <string name="descending_sort_order">Descending</string>
-    <string name="new_folder_label">New folder name</string>
-    <string name="create_new_folder">Create new folder</string>
+    <string name="alpha_numeric_sort_type">Alfanumerický</string>
+    <string name="ascending_sort_order">Vzestupný</string>
+    <string name="descending_sort_order">Sestupný</string>
+    <string name="new_folder_label">Název nové složky</string>
+    <string name="create_new_folder">Vytvořit novou složku</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="save">Save</string>
