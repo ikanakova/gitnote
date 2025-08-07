@@ -51,9 +51,9 @@
     <string name="error_create_file">Nelze vytvořit soubor: %1$s</string>
     <string name="error_delete_file">Nelze smazat soubor %1$s: %2$s</string>
     <string name="error_create_folder">Nelze vytvořit složku: %1$s</string>
-    <string name="error_pull_repo">Can\'t pull: %1$s</string>
-    <string name="error_push_repo">Can\'t push: %1$s</string>
-    <string name="error_commit_repo">can\'t commit: %1$s</string>
+    <string name="error_pull_repo">Nelze provést pull: %1$s</string>
+    <string name="error_push_repo">Nelze provést push: %1$s</string>
+    <string name="error_commit_repo">Nelze provést commit: %1$s</string>
     <string name="error_commit_file_change">can\'t know if there is files change: %1$s</string>
     <string name="error_clone_repo">can\'t clone repository: %1$s</string>
     <string name="error_open_repo">can\'t open repository: %1$s</string>
