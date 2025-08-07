@@ -27,7 +27,7 @@
     <string name="folder_filters">Filtry složek</string>
     <string name="folder_filters_subtitle">Definovat regex pro filtrování složek úložiště</string>
     <string name="edit">Úpravy</string>
-    <string name="default_note_extension">Default extension for notes</string>
+    <string name="default_note_extension">Výchozí přípona poznámek</string>
     <string name="show_lines_number">Show lines number</string>
     <string name="repository">Repository</string>
     <string name="password">Password</string>
