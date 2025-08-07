@@ -12,8 +12,8 @@
     <string name="yes">Ano</string>
     <string name="no">Ne</string>
     <string name="save">Uložit</string>
-    <string name="none">None</string>
-    <string name="settings">Settings</string>
+    <string name="none">Žádné</string>
+    <string name="settings">Nastavení</string>
     <string name="search_in_notes">Search in notes</string>
     <string name="user_interface">User interface</string>
     <string name="dynamic_colors">Dynamic colors</string>
