@@ -36,11 +36,11 @@
     <string name="close_repository">Zavřít repozitář</string>
     <string name="close_repository_confirmation">Opravdu chcete zavřít repozitář?</string>
     <string name="version">Verze</string>
-    <string name="show_logs">Show logs</string>
-    <string name="report_an_issue">Report an issue</string>
-    <string name="source_code">Source code</string>
-    <string name="libraries">Libraries</string>
-    <string name="copy_all_logs">Copy all logs</string>
+    <string name="show_logs">Zobrazit logy</string>
+    <string name="report_an_issue">Nahlásit problém</string>
+    <string name="source_code">Zdrojový kód</string>
+    <string name="libraries">Knihovny</string>
+    <string name="copy_all_logs">Zkopírovat všechny logy</string>
     <string name="note_name">Note name</string>
     <string name="delete_this_folder">Delete this folder</string>
     <string name="theme">Theme</string>
