@@ -4,7 +4,7 @@
     <string name="light_theme">Světlý</string>
     <string name="dark_theme">Tmavý</string>
     <string name="modification_sort_type">Modifikace</string>
-    <string name="alpha_numeric_sort_type">Alfanumerický</string>
+    <string name="alpha_numeric_sort_type">Alfanumerické</string>
     <string name="ascending_sort_order">Vzestupný</string>
     <string name="descending_sort_order">Sestupný</string>
     <string name="new_folder_label">Název nové složky</string>
