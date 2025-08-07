@@ -41,10 +41,10 @@
     <string name="source_code">Zdrojový kód</string>
     <string name="libraries">Knihovny</string>
     <string name="copy_all_logs">Zkopírovat všechny logy</string>
-    <string name="note_name">Note name</string>
-    <string name="delete_this_folder">Delete this folder</string>
-    <string name="theme">Theme</string>
-    <string name="delete_this_note">Delete this note</string>
+    <string name="note_name">Název poznámky</string>
+    <string name="delete_this_folder">Smazat tuto složku</string>
+    <string name="theme">Motiv</string>
+    <string name="delete_this_note">Smazat tuto poznámku</string>
     <string name="select_multiple_notes">Select multiple notes</string>
     <string name="error_invalid_link">Invalid link, can\'t open it</string>
     <string name="error_file_already_exist">File already exist</string>
