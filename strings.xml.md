@@ -45,8 +45,8 @@
     <string name="delete_this_folder">Smazat tuto složku</string>
     <string name="theme">Motiv</string>
     <string name="delete_this_note">Smazat tuto poznámku</string>
-    <string name="select_multiple_notes">Select multiple notes</string>
-    <string name="error_invalid_link">Invalid link, can\'t open it</string>
+    <string name="select_multiple_notes">Vybrat více poznámek</string>
+    <string name="error_invalid_link">Neplatný odkaz, nelze otevřít</string>
     <string name="error_file_already_exist">File already exist</string>
     <string name="error_create_file">Can\'t create file: %1$s</string>
     <string name="error_delete_file">Can\'t delete file %1$s: %2$s</string>
