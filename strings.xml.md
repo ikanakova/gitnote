@@ -32,10 +32,10 @@
     <string name="repository">Repozitář</string>
     <string name="password">Heslo</string>
     <string name="username">Uživatelské jméno</string>
-    <string name="remote_url">Remote url</string>
+    <string name="remote_url">Vzdálené url</string>
     <string name="close_repository">Zavřít repozitář</string>
     <string name="close_repository_confirmation">Opravdu chcete zavřít repozitář?</string>
-    <string name="version">Version</string>
+    <string name="version">Verze</string>
     <string name="show_logs">Show logs</string>
     <string name="report_an_issue">Report an issue</string>
     <string name="source_code">Source code</string>
