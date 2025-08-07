@@ -20,9 +20,9 @@
     <string name="sort_type">Typ řazení</string>
     <string name="sort_order">Pořadí řazení</string>
     <string name="minimal_note_width">Minimální šířka poznámky</string>
-    <string name="show_long_notes">Show long notes entirely</string>
-    <string name="remember_last_opened_folder">Remember last opened folder</string>
-    <string name="show_the_full_notes_path">Always show the full path of notes</string>
+    <string name="show_long_notes">Úplně zobrazit dlouhé poznámky</string>
+    <string name="remember_last_opened_folder">Pamatovat si naposledy otevřenou složku</string>
+    <string name="show_the_full_notes_path">Vždy zobrazit celou cestu k poznámkám</string>
     <string name="show_the_full_notes_path_subtitle">Note that the default behavior will only print the path if more than two notes share the same name</string>
     <string name="folder_filters">Folder filters</string>
     <string name="folder_filters_subtitle">Define regex to filter folders of the repository</string>
