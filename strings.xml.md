@@ -9,9 +9,9 @@
     <string name="descending_sort_order">Sestupný</string>
     <string name="new_folder_label">Název nové složky</string>
     <string name="create_new_folder">Vytvořit novou složku</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="save">Save</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="save">Uložit</string>
     <string name="none">None</string>
     <string name="settings">Settings</string>
     <string name="search_in_notes">Search in notes</string>
